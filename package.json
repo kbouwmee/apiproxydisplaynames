@@ -1,0 +1,17 @@
+{
+  "name": "listproxies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+"dependencies": {
+    "firebase-admin": "^5.10.0",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
+"readline-sync":"^1.4.9"
+  },
+  "author": "",
+  "license": "ISC"
+}
